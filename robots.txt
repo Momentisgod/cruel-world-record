@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cruelworldrecord.com/sitemap.xml
